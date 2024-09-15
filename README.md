@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning Google certificate 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me gershomdelva9@gmail.com or 5168597354
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: originally a Mortgage Loan officer 
 
 <!---
 GERSHD/GERSHD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
