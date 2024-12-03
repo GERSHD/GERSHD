@@ -10,14 +10,9 @@ I am a licensed Loan Officer transitioning into cybersecurity, leveraging my exp
 To contribute to a dynamic cybersecurity team, applying my knowledge of security tools, incident response, and automation to protect and defend critical systems while continuously enhancing my skill set.
 
 🛠️ Skills
-Skill	Associated Project
-SIEM Implementation and Log Analysis	Detection Lab
-Network Traffic Monitoring and Attack Detection	Detection Lab
-Security Automation with Shuffle SOAR	SOC Automation Project
-Incident Response Planning and Execution	SOC Automation Project
-Case Management with TheHive	SOC Automation Project
-Scripting and Automation for Threat Mitigation	SOC Automation Project
+
 🔧 Tools
+
 Network
 
 Endpoint
