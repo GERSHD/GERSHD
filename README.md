@@ -1,6 +1,7 @@
 #Hi Im Gershom Delva
-<a href="https://www.linkedin.com/in/gershom-delva-6768351a3" target="_blank"> 
-  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /> </a>
+<a href="https://www.linkedin.com/in/gershom-delva-6768351a3" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+</a>
 I am a licensed Loan Officer transitioning into cybersecurity, leveraging my expertise in technology and problem-solving to build a future in safeguarding digital assets. My ultimate goal is to join a Security Operations Center (SOC) as a Tier 1 Analyst and grow into advanced cybersecurity roles.
 
 🌟 Objective
